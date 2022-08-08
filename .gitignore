@@ -1,2 +1,8 @@
+/.bsp
+/.idea
+**/target
+/project
+
 *.class
 *.log
+**/*.iml
